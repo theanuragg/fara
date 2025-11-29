@@ -1,6 +1,5 @@
 fara_screenshots/
 fara_downloads/
-.vscode
 logs/
 
 # Byte-compiled / optimized / DLL files
@@ -127,7 +126,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -179,7 +177,6 @@ __pycache__/
 *$py.class
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -187,3 +184,4 @@ ENV/
 env.bak/
 venv.bak/
 
+config.bat
